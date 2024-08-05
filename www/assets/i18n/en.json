@@ -1,9 +1,13 @@
 {
+	"TransactionHistory": "Transaction history",
 	"Balance": "Balance",
 	"TopUp": "Top up",
 	"AgreeToThePersonalInformationSecurityPolicy": "Agree to the personal information security policy.",
 	"AgreeToThePersonalInformationSecurityPolicy_More": "By clicking the 'Sign up' button, you are creating a iSAC account and therefore you agree to iSAC's <a href='/terms-of-use' class='d-inline-block'>Terms of Use</a> and <a href='/privacy-policy' class='d-inline-block'>Privacy Policy</a> ours.",
 	"Service": "Service",
+	"Verified": "Verified",
+	"Verified_MoreInfo": "* Verified information can be used to log in..",
+	"AccountLinkedTo":"Account linked to",
 	"TermsAndCondition": "Terms and condition",
 	"PaymentPolicy": "Payment policy",
 	"PrivacyPolicy": "Privacy policy",
