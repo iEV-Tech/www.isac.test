@@ -1,4 +1,6 @@
 {
+	"ViewService": "View service",
+	"ExpiredDate": "Expired date",
 	"CancelService": "Cancel service",
 	"MobileStation": "Mobile station",
 	"Employe": "Employe",
