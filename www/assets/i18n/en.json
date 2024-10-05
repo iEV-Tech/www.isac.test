@@ -1,4 +1,7 @@
 {
+	"AddressTo": "Address to",
+	"DateCharging": "Date charging",
+	"TimeCharging": "Time charging",
 	"ViewService": "View service",
 	"ExpiredDate": "Expired date",
 	"CancelService": "Cancel service",

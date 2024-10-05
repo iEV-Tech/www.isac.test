@@ -1,4 +1,7 @@
 {
+	"AddressTo": "Địa điểm đến",
+	"DateCharging": "Ngày sạc",
+	"TimeCharging": "Khung giờ sạc",
 	"ViewService": "Xem dịch vụ",
 	"ExpiredDate": "Thời hạn",
 	"CancelService": "Hủy dịch vụ",
