@@ -1,4 +1,11 @@
 {
+	"VehicleWallet": "Vehicle wallet",
+	"VehicleVipWallet": "Vehicle VIP wallet",
+	"PersonalWallet": "Personal wallet",
+	"TopUpIntoWallet":"Topup into wallet",
+	"DistanceRescure": "Distance rescure",
+	"MyWallet": "iSAC wallet",
+	"OfflineCharging": "Offline",
 	"AddressTo": "Address to",
 	"DateCharging": "Date charging",
 	"TimeCharging": "Time charging",
